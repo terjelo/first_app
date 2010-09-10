@@ -1,3 +1,9 @@
+# First test: Hello
+
+This is a test of
+[*Ruby on Rails tutorial: Learn by example*](http://www.railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create 
